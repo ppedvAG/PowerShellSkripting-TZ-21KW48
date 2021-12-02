@@ -10,4 +10,6 @@ Kurs Repository zum Kurs "PowerShell Skriptbasierte Verwaltung und Automatisieru
 ---
 - Operationen 
 - Formatierung der Ausgabe
+- Sortieren Messen Selektieren
+---
 
