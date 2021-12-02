@@ -28,8 +28,9 @@ do
     #Schleife wird mindestens einmal durchlaufen und läuft weiter solange unten in der Prüfung $true rauskommt
 }while($true)
 ```
-
+```powershell
 do
 {
     #Schleife wird mindestens einmal durchlaufen und läuft weiter solange die Prüfung $false ergibt
 }until($true)
+```
